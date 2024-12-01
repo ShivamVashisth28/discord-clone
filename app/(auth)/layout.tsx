@@ -1,7 +1,7 @@
 function layout({ children } : {children : React.ReactNode
 }) {
   return (
-    <div className="bg-red-500 h-full">
+    <div className="h-full flex justify-center items-center">
         {children}
     </div>
   )
