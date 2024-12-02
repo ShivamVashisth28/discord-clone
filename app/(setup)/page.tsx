@@ -1,4 +1,4 @@
-import { InitialModal } from "@/components/modals/initial-modal";
+import { InitialModal } from "@/components/modals/create-server-modal";
 import { db } from "@/lib/db";
 import { initialProfile } from "@/lib/initial-profile"
 import { RedirectToSignIn } from "@clerk/nextjs";
